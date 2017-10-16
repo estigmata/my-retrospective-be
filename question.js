@@ -1,6 +1,7 @@
 {
 	name: "Dev22Retro01",
 	max_rates: 5,
+	team-member: [],
 	categories: [
 		{
 			name: "Went Well",
@@ -17,7 +18,7 @@
 							quantity: 1
 						}
 					],
-				},			
+				},
 				{
 					summary: "Dolor sit amet",
 					rates: [
@@ -62,7 +63,7 @@
 							quantity: 2
 						}
 					],
-				},			
+				},
 				{
 					summary: "Donec varius magna eu",
 					rates: [
