@@ -1,6 +1,6 @@
 'use strict';
 
-const retrospectiveRoutes = require('../retrospective/retrospective.route');
+const retrospectiveRoutes = require('../retrospective/retrospective.router');
 
 function routes (app) {
   app.use('/retrospectives', retrospectiveRoutes);

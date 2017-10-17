@@ -33,7 +33,7 @@ const RetrospectiveSchema = new Schema ({
           summary: {
             type: String,
             trim: true
-          }
+          },
           childs: [
             {
               itemId: {
